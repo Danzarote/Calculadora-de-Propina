@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora de Propinas</string>
+    <string name="calculate_tip">Calcular Propinas</string>
+    <string name="bill_amount">Monto de la Boleta</string>
+    <string name="tip_amount">Propina Total: %s</string>
+    <string name="how_was_the_service">Porcentaje Propina</string>
+    <string name="total_amount">Monto Total: %s</string>
+</resources>
